@@ -11,6 +11,6 @@
 
 ## Credit 
 ## ====+++====
-NLTK library [Language Toolkit]
-maali-mnasri [word_replacement]
-Ghost---Shadow [plag]
+- NLTK library [Language Toolkit]
+- maali-mnasri [word_replacement]
+- Ghost---Shadow [plag]
